@@ -19,7 +19,7 @@
       <td><img src="https://github.com/jeffrey-spaan/jeffrey-spaan/blob/main/images/mysql.png" alt="mysql"></td>
       <td><img src="https://github.com/jeffrey-spaan/jeffrey-spaan/blob/main/images/postgresql.png" alt="postgresql"></td>
       <td><img src="https://github.com/jeffrey-spaan/jeffrey-spaan/blob/main/images/mongo-db.png" alt="mongo-db"></td>
-      <td><img src="https://github.com/jeffrey-spaan/jeffrey-spaan/blob/main/images/azure" alt="azure"></td>
+      <td><img src="https://github.com/jeffrey-spaan/jeffrey-spaan/blob/main/images/azure.png" alt="azure"></td>
     </tr>
   </table>
 </div>
